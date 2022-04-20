@@ -1,4 +1,4 @@
 # Modeling-in-Google-Sheets
 
-Please click the link below to access the analysis model in Google Sheets: 
-> https://docs.google.com/spreadsheets/d/1S-QYxplQCm-YbMWBcKIHihklnBZh50WQ0DtrYTRUsSQ/edit#gid=0
+Please click the link below to access the analysis model and dataset in Google Sheets: 
+> https://drive.google.com/drive/folders/1GHkKefsVBXhY-26kq8ZUr6fgFYrtFOSe?usp=sharing
